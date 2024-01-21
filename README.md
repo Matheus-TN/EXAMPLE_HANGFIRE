@@ -6,12 +6,13 @@ Site Oficial: https://www.hangfire.io/
 
 Libs utilizadas:
 
-HangFire
-HangFire.MemoryStorage ( para operar em mémoria local )
+- HangFire
+- HangFire.MemoryStorage ( para operar em mémoria local )
+
 Libs para uso em produção:
 
-HangFire.SqlServer
-HangFire.Console
-HangFire.Mongo
-HangFire.MySqlStorage
-HangFire.PostgreSql
+- HangFire.SqlServer
+- HangFire.Console
+- HangFire.Mongo
+- HangFire.MySqlStorage
+- HangFire.PostgreSql
